@@ -1,7 +1,7 @@
 # Basic Auth Middleware for Express
 ### http://zip-tax.com
 
-<a href="https://nodei.co/npm/basicauth/"><img src="https://nodei.co/npm/basicauth.png?downloads=true"></a>
+<a href="https://nodei.co/npm/node-basicauth/"><img src="https://nodei.co/npm/node-basicauth.png?downloads=true"></a>
 
 ## Download
 The source is available for download from GitHub. Alternatively, you can install using Node Package Manager (npm):

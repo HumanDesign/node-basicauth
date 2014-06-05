@@ -6,7 +6,7 @@
     "name": "Matt Null",
     "email" : "matt@beinghuman.is"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/HumanDesign/node-basicauth.git"
