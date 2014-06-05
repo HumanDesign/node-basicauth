@@ -13,6 +13,7 @@ The source is available for download from GitHub. Alternatively, you can install
 app = express()
 basicAuth = require 'node-basicauth'
 
+// you can add as many usernames and passwords as you want
 app.use(basicAuth({
 	'username1' : 'password1'
 	'username2' : 'password2'
