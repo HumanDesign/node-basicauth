@@ -13,8 +13,8 @@ The source is available for download from GitHub. Alternatively, you can install
 basicAuth = require 'basicauth'
 
 app.use(basicAuth({
-	'skoop' : 'Skoopin!100'
-	'mattnull' : 'test'
+	'username1' : 'password1'
+	'username2' : 'password2'
 }))
 ```
 
