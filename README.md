@@ -10,6 +10,7 @@ The source is available for download from GitHub. Alternatively, you can install
 
 ## Example
 ```coffeescript
+app = express()
 basicAuth = require 'node-basicauth'
 
 app.use(basicAuth({
