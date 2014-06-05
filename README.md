@@ -1,5 +1,4 @@
 # Basic Auth Middleware for Express
-### http://zip-tax.com
 
 <a href="https://nodei.co/npm/node-basicauth/"><img src="https://nodei.co/npm/node-basicauth.png?downloads=true"></a>
 
